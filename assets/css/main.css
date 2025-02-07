@@ -3754,14 +3754,14 @@ input, select, textarea {
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #2e3842;
+			background: #2c4131;
 			display: block;
 			width: 100%;
 			height: 100%;
 			position: absolute;
 			left: 0;
 			top: 0;
-			opacity: 0;
+			opacity: 1;
 		}
 
 		@media screen and (max-width: 736px) {
